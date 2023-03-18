@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/pi/Desktop/AAA_encoder/encoderprova/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DQT_CORE_LIB -I/home/pi/Desktop/AAA_encoder/encoderprova/build -I/home/pi/Desktop/AAA_encoder/encoderprova -I/home/pi/Desktop/AAA_encoder/encoderprova/build/encoderprova_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/encoderprova.dir/encoderprova_autogen/mocs_compilation.cpp.o -c /home/pi/Desktop/AAA_encoder/encoderprova/build/encoderprova_autogen/mocs_compilation.cpp",
+  "file": "/home/pi/Desktop/AAA_encoder/encoderprova/build/encoderprova_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/pi/Desktop/AAA_encoder/encoderprova/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DQT_CORE_LIB -I/home/pi/Desktop/AAA_encoder/encoderprova/build -I/home/pi/Desktop/AAA_encoder/encoderprova -I/home/pi/Desktop/AAA_encoder/encoderprova/build/encoderprova_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/encoderprova.dir/main.cpp.o -c /home/pi/Desktop/AAA_encoder/encoderprova/main.cpp",
+  "file": "/home/pi/Desktop/AAA_encoder/encoderprova/main.cpp"
+},
+{
+  "directory": "/home/pi/Desktop/AAA_encoder/encoderprova/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DQT_CORE_LIB -I/home/pi/Desktop/AAA_encoder/encoderprova/build -I/home/pi/Desktop/AAA_encoder/encoderprova -I/home/pi/Desktop/AAA_encoder/encoderprova/build/encoderprova_autogen/include -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/encoderprova.dir/bcmencoder.cpp.o -c /home/pi/Desktop/AAA_encoder/encoderprova/bcmencoder.cpp",
+  "file": "/home/pi/Desktop/AAA_encoder/encoderprova/bcmencoder.cpp"
+}
+]

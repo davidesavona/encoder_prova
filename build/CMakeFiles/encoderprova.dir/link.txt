@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-g++ -g -rdynamic CMakeFiles/encoderprova.dir/encoderprova_autogen/mocs_compilation.cpp.o CMakeFiles/encoderprova.dir/main.cpp.o CMakeFiles/encoderprova.dir/bcmencoder.cpp.o -o encoderprova  /usr/lib/aarch64-linux-gnu/libQt5Core.so.5.15.2 /home/pi/bcm2835-1.71/src/libbcm2835.a 

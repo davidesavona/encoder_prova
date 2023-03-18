@@ -1,0 +1,4 @@
+/home/pi/Desktop/AAA_encoder/encoderprova/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/AAA_encoder/encoderprova/build/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/AAA_encoder/encoderprova/build/CMakeFiles/encoderprova.dir
+/home/pi/Desktop/AAA_encoder/encoderprova/build/CMakeFiles/encoderprova_autogen.dir

@@ -1,0 +1,100 @@
+{
+	"BUILD_DIR" : "/home/pi/Desktop/AAA_encoder/encoderprova/build/encoderprova_autogen",
+	"CMAKE_BINARY_DIR" : "/home/pi/Desktop/AAA_encoder/encoderprova/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/pi/Desktop/AAA_encoder/encoderprova/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/pi/Desktop/AAA_encoder/encoderprova",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/pi/Desktop/AAA_encoder/encoderprova/CMakeLists.txt",
+		"/home/pi/Desktop/AAA_encoder/encoderprova/build/CMakeFiles/3.18.4/CMakeSystem.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeSystemSpecificInitialize.cmake",
+		"/home/pi/Desktop/AAA_encoder/encoderprova/build/CMakeFiles/3.18.4/CMakeCXXCompiler.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeSystemSpecificInformation.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeGenericSystem.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeInitializeConfigs.cmake",
+		"/usr/share/cmake-3.18/Modules/Platform/Linux.cmake",
+		"/usr/share/cmake-3.18/Modules/Platform/UnixPaths.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeCXXInformation.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake",
+		"/usr/share/cmake-3.18/Modules/Compiler/GNU-CXX.cmake",
+		"/usr/share/cmake-3.18/Modules/Compiler/GNU.cmake",
+		"/usr/share/cmake-3.18/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/usr/share/cmake-3.18/Modules/Internal/CMakeCheckCompilerFlag.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake",
+		"/usr/share/cmake-3.18/Modules/Platform/Linux-GNU-CXX.cmake",
+		"/usr/share/cmake-3.18/Modules/Platform/Linux-GNU.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"/usr/lib/aarch64-linux-gnu/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeParseArguments.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/pi/Desktop/AAA_encoder/encoderprova",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/pi/Desktop/AAA_encoder/encoderprova/bcmencoder.h",
+			"Mu",
+			"EWIEGA46WW/moc_bcmencoder.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/pi/Desktop/AAA_encoder/encoderprova/build/encoderprova_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/pi/Desktop/AAA_encoder/encoderprova/build/encoderprova_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/pi/Desktop/AAA_encoder/encoderprova/build",
+		"/home/pi/Desktop/AAA_encoder/encoderprova",
+		"/usr/include/aarch64-linux-gnu/qt5",
+		"/usr/include/aarch64-linux-gnu/qt5/QtCore",
+		"/usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/c++/10",
+		"/usr/include/aarch64-linux-gnu/c++/10",
+		"/usr/include/c++/10/backward",
+		"/usr/lib/gcc/aarch64-linux-gnu/10/include",
+		"/usr/local/include",
+		"/usr/include/aarch64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/aarch64-linux-gnu-g++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.18/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/pi/Desktop/AAA_encoder/encoderprova/build/encoderprova_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 1,
+	"PARSE_CACHE_FILE" : "/home/pi/Desktop/AAA_encoder/encoderprova/build/CMakeFiles/encoderprova_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/pi/Desktop/AAA_encoder/encoderprova/build/CMakeFiles/encoderprova_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/home/pi/Desktop/AAA_encoder/encoderprova/bcmencoder.cpp", "Mu" ],
+		[ "/home/pi/Desktop/AAA_encoder/encoderprova/main.cpp", "Mu" ]
+	],
+	"VERBOSITY" : 0
+}
