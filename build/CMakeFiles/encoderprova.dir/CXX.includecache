@@ -6,10 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/home/pi/Desktop/AAA_encoder/encoderprova/bcmencoder.cpp
-bcmencoder.h
-/home/pi/Desktop/AAA_encoder/encoderprova/bcmencoder.h
-
 /home/pi/Desktop/AAA_encoder/encoderprova/bcmencoder.h
 bcm2835.h
 -
@@ -19,8 +15,6 @@ unistd.h
 -
 string.h
 -
-
-/home/pi/Desktop/AAA_encoder/encoderprova/build/encoderprova_autogen/mocs_compilation.cpp
 
 /home/pi/Desktop/AAA_encoder/encoderprova/main.cpp
 QCoreApplication
